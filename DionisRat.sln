@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dionis", "Dionis\Dionis.csproj", "{06BEA9F0-B1BC-46F5-952C-1F1A4718646E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{1F9EC9E7-1D48-4389-BDCE-CAA8A90709F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DionisApp", "DionisApp\DionisApp.csproj", "{8D7949D5-E800-4C7E-B709-672151EA7069}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06BEA9F0-B1BC-46F5-952C-1F1A4718646E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06BEA9F0-B1BC-46F5-952C-1F1A4718646E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06BEA9F0-B1BC-46F5-952C-1F1A4718646E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06BEA9F0-B1BC-46F5-952C-1F1A4718646E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F9EC9E7-1D48-4389-BDCE-CAA8A90709F7}.Debug|Any CPU.ActiveCfg = Debug
+		{1F9EC9E7-1D48-4389-BDCE-CAA8A90709F7}.Release|Any CPU.ActiveCfg = Release
+		{8D7949D5-E800-4C7E-B709-672151EA7069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7949D5-E800-4C7E-B709-672151EA7069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7949D5-E800-4C7E-B709-672151EA7069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7949D5-E800-4C7E-B709-672151EA7069}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50689022-0C7C-4DF9-9812-77F1050FBA63}
+	EndGlobalSection
+EndGlobal

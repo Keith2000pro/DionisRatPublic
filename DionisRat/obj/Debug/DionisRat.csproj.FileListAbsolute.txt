@@ -1,0 +1,16 @@
+C:\Users\kitp9\source\repos\DionisRat\DionisRat\obj\Debug\DionisRat.csproj.AssemblyReference.cache
+C:\Users\kitp9\source\repos\DionisRat\DionisRat\obj\Debug\DionisRat.Properties.Resources.resources
+C:\Users\kitp9\source\repos\DionisRat\DionisRat\obj\Debug\DionisRat.csproj.GenerateResource.cache
+C:\Users\kitp9\source\repos\DionisRat\DionisRat\obj\Debug\DionisRat.csproj.CoreCompileInputs.cache
+C:\Users\kitp9\source\repos\DionisRat\DionisRat\bin\Debug\DionisRat.exe.config
+C:\Users\kitp9\source\repos\DionisRat\DionisRat\bin\Debug\DionisRat.exe
+C:\Users\kitp9\source\repos\DionisRat\DionisRat\bin\Debug\DionisRat.pdb
+C:\Users\kitp9\source\repos\DionisRat\DionisRat\bin\Debug\Guna.UI2.dll
+C:\Users\kitp9\source\repos\DionisRat\DionisRat\obj\Debug\DionisRat.csproj.Up2Date
+C:\Users\kitp9\source\repos\DionisRat\DionisRat\obj\Debug\DionisRat.exe
+C:\Users\kitp9\source\repos\DionisRat\DionisRat\obj\Debug\DionisRat.pdb
+C:\Users\kitp9\source\repos\DionisRat\DionisRat\obj\Debug\DionisRat.Form2.resources
+C:\Users\kitp9\source\repos\DionisRat\DionisRat\bin\Debug\DrakeUI.Framework.dll
+C:\Users\kitp9\source\repos\DionisRat\DionisRat\obj\Debug\DionisRat.ScreenForm.resources
+C:\Users\kitp9\source\repos\DionisRat\DionisRat\obj\Debug\DionisRat.Form1.resources
+C:\Users\kitp9\source\repos\DionisRat\DionisRat\obj\Debug\DionisRat.MainForm.resources

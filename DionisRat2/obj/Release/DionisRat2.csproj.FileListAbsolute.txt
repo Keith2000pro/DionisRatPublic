@@ -1,0 +1,10 @@
+C:\Users\kitp9\source\repos\DionisRat\DionisRat2\bin\Release\DionisRat2.exe.config
+C:\Users\kitp9\source\repos\DionisRat\DionisRat2\bin\Release\DionisRat2.exe
+C:\Users\kitp9\source\repos\DionisRat\DionisRat2\bin\Release\DionisRat2.pdb
+C:\Users\kitp9\source\repos\DionisRat\DionisRat2\obj\Release\DionisRat2.csproj.AssemblyReference.cache
+C:\Users\kitp9\source\repos\DionisRat\DionisRat2\obj\Release\DionisRat2.Form1.resources
+C:\Users\kitp9\source\repos\DionisRat\DionisRat2\obj\Release\DionisRat2.Properties.Resources.resources
+C:\Users\kitp9\source\repos\DionisRat\DionisRat2\obj\Release\DionisRat2.csproj.GenerateResource.cache
+C:\Users\kitp9\source\repos\DionisRat\DionisRat2\obj\Release\DionisRat2.csproj.CoreCompileInputs.cache
+C:\Users\kitp9\source\repos\DionisRat\DionisRat2\obj\Release\DionisRat2.exe
+C:\Users\kitp9\source\repos\DionisRat\DionisRat2\obj\Release\DionisRat2.pdb

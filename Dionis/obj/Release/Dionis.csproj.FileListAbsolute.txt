@@ -1,0 +1,10 @@
+C:\Users\kitp9\source\repos\DionisRat\Dionis\bin\Release\Dionis.exe.config
+C:\Users\kitp9\source\repos\DionisRat\Dionis\bin\Release\Dionis.exe
+C:\Users\kitp9\source\repos\DionisRat\Dionis\bin\Release\Dionis.pdb
+C:\Users\kitp9\source\repos\DionisRat\Dionis\obj\Release\Dionis.csproj.AssemblyReference.cache
+C:\Users\kitp9\source\repos\DionisRat\Dionis\obj\Release\Dionis.Form1.resources
+C:\Users\kitp9\source\repos\DionisRat\Dionis\obj\Release\Dionis.Properties.Resources.resources
+C:\Users\kitp9\source\repos\DionisRat\Dionis\obj\Release\Dionis.csproj.GenerateResource.cache
+C:\Users\kitp9\source\repos\DionisRat\Dionis\obj\Release\Dionis.csproj.CoreCompileInputs.cache
+C:\Users\kitp9\source\repos\DionisRat\Dionis\obj\Release\Dionis.exe
+C:\Users\kitp9\source\repos\DionisRat\Dionis\obj\Release\Dionis.pdb
